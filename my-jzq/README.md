@@ -25,3 +25,19 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+//安装vue-cli脚手架项目
+npm install vue-cli -g
+
+//创建基于webpack的vue项目（在项目根目录）
+vue init webpack
+
+//安装vue及依赖
+npm install
+
+//项目启动
+npm run dev
+
+//项目打包
+npm run build
